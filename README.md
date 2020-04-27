@@ -1,2 +1,2 @@
 # techmap
-keynotes about technology
+keynotes about software developemnt
